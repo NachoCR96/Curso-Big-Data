@@ -12,3 +12,19 @@ Carpeta - Lunes
     - El primero simula un diagrama de flujo de personajes Marvel utilizando sentencias condicionales.
     - El segundo dada una variable year con un valor entero, comprueba si dicho año es bisiesto o no.
     - El tercero Determina si una cadena de texto dada es un palíndromo.
+
+
+Carpeta - Martes
+
+  Archivo número 03 - Bucles M5
+    Google Colab Notebook en donde trabajo con los bucles y sus conceptos básicos.
+
+
+  Archivo número 10 - Pandas M4
+    Google Colab Notebook en donde trato la librería Pandas y desarrollo varios ejercicios relacionados.
+
+
+  Archivo número 1 - Data Collection Api - Space X
+    Google Colab Notebook en el cual obtenemos los datos para predecir si un falcon 9 aterizará con éxito o no. 
+    Los datos son recogidos mediante la API de SpaceX.
+    
