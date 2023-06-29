@@ -27,4 +27,10 @@ Carpeta - Martes
   Archivo número 1 - Data Collection Api - Space X
     Google Colab Notebook en el cual obtenemos los datos para predecir si un falcon 9 aterizará con éxito o no. 
     Los datos son recogidos mediante la API de SpaceX.
+
+
+Carpeta - Miercoles
+
+  Archivo Prophet - Predecir el valor de Bitcoin
+    Google Colab Notebook 
     
