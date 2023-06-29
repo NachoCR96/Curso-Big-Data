@@ -1,6 +1,6 @@
 # Curso-Big-Data
 
-Carpeta - Lunes
+Carpeta - Día 1
 
   Archivo número 01 - Python Notebook M5 
     Google Colab Notebook en donde he trabajado los conceptos básicos de Python. 
@@ -15,7 +15,7 @@ Carpeta - Lunes
     - El tercero Determina si una cadena de texto dada es un palíndromo.
 
 
-Carpeta - Martes
+Carpeta - Día 2
 
   Archivo número 03 - Bucles M5
     Google Colab Notebook en donde trabajo con los bucles y sus conceptos básicos.
@@ -30,7 +30,7 @@ Carpeta - Martes
     Los datos son recogidos mediante la API de SpaceX.
 
 
-Carpeta - Miercoles
+Carpeta - Día 3
 
   Archivo Prophet - Predecir el valor de Bitcoin
     Google Colab Notebook en donde entreno un modelo con Prophet y lo utilizo para realizar predicciones futuras. En este ejercicio desarrollo código para predecir 
