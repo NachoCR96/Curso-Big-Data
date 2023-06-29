@@ -1,4 +1,5 @@
 # Curso-Big-Data
+
 Carpeta - Lunes
 
   Archivo número 01 - Python Notebook M5 
@@ -32,5 +33,15 @@ Carpeta - Martes
 Carpeta - Miercoles
 
   Archivo Prophet - Predecir el valor de Bitcoin
-    Google Colab Notebook 
+    Google Colab Notebook en donde entreno un modelo con Prophet y lo utilizo para realizar predicciones futuras. En este ejercicio desarrollo código para predecir 
+    el valor de bitcoin. La criptomoneda que le ha marcado el camino a todas las demás que llegaron después utilizando su tecnología.
+
+
+  Archivo número 06 - Introducción a Machine Learning con Scikit-Learn M5
+    Google Colab Notebook en donde trabajo con los conceptos básicos de la biblioteca Scikit-Learn.
+    
+
+  Archivo número 09 - Folium M5 
+    Google Colab Notebook en el cual creo distintos mapas interactivos. Para ello utilizo la librería Folium, creada con el objetivo de visualizar datos 
+    geoespaciales. 
     
