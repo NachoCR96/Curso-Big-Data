@@ -44,4 +44,20 @@ Carpeta - Día 3
   Archivo número 09 - Folium M5 
     Google Colab Notebook en el cual creo distintos mapas interactivos. Para ello utilizo la librería Folium, creada con el objetivo de visualizar datos 
     geoespaciales. 
+
+
+Carpeta - Día 4
+
+  Archivo Space X 4 - EDA with Data Visualization
+    Google Colaba Notebook en donde analizo la probabilidad de éxito en el retorno de cohetes en spacex
+
+    
+  Archivo Space X 5 - Interactive Visual Analytics con Folium
+    Google Colaba Notebook en donde analizo las ubicaciones de los sitios de lanzamiento de SpaceX con Folium
+
+    
+  Archivo Space X 6 - Machine Learning Predicciones
+    En este laboratorio, creo una línea de aprendizaje automático para predecir si los cohetes aterrizarán dados los datos de los laboratorios anteriores
+
+
     
